@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color:rgb(218, 138, 47);
+}
+
+
+.cultivos {
+    background-color: rgb(143,203,241,255);
+    border-radius: 20px;
+    margin:10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.card1 .cultivop li {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.card2 .cultivov li {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 300;
+}
